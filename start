@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+read -a "go"
+
+wait
+
+exit 0
